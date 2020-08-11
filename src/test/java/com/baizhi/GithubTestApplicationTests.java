@@ -16,7 +16,8 @@ class GithubTestApplicationTests {
         System.out.println("第五个打印语句");
 
         System.out.println("第六个打印语句");
-        System.out.println("测试使用diea提交");
+        System.out.println("测试使用idea提交");
+        System.out.println("测试使用idea添加到暂存区");
     }
 
 }
