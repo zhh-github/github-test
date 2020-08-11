@@ -10,6 +10,7 @@ class GithubTestApplicationTests {
     public void contextLoads() {
         System.out.println("第一次发布");
         System.out.println("第二次发布");
+        System.out.println("第三次发布");
     }
 
 }
