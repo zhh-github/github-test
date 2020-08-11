@@ -14,6 +14,8 @@ class GithubTestApplicationTests {
 
         System.out.println("第四个打印语句");
         System.out.println("第五个打印语句");
+
+        System.out.println("第六个打印语句");
     }
 
 }
