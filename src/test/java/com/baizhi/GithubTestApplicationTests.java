@@ -11,6 +11,8 @@ class GithubTestApplicationTests {
         System.out.println("第一次发布");
         System.out.println("第二次发布");
         System.out.println("第三次发布");
+
+        System.out.println("第四个打印语句");
     }
 
 }
